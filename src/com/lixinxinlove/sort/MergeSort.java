@@ -16,6 +16,8 @@ public class MergeSort {
 
     //递归使用归并排序,对 arr[l...r]的范围进行排序
     private static void __mergeSort(int[] arr, int l, int r) {
+
+        //这里可以优化  在一定小的范围内可以使用插入排序
         if (l >= r) {
             return;
         }
