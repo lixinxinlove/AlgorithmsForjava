@@ -35,10 +35,10 @@ public class Test {
 
 
         System.out.print("选择排序：");
-        long st0 = System.currentTimeMillis();
+        long st = System.currentTimeMillis();
         SelectionSort.selectionSort(arr0, arr0.length);
-        long et0 = System.currentTimeMillis();
-        System.out.println(et0 - st0);
+        long et = System.currentTimeMillis();
+        System.out.println(et - st);
 
         System.out.print("插入排序：");
         long st1 = System.currentTimeMillis();
