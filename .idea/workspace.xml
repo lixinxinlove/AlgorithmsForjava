@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad43aa3-9c08-4987-aab3-e99d3aba2a89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/META-INF/AlgorithmsForjava.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapAndSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapAndSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/MaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/MaxHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSortUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSortUp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/tree/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/tree/BinarySearch.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="540">
+              <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,10 +136,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
-    <option name="width" value="1062" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="650" />
+    <option name="y" value="259" />
+    <option name="width" value="1157" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -173,24 +158,6 @@
             <path>
               <item name="AlgorithmsForjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmsForjava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmsForjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmsForjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmsForjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmsForjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lixinxinlove" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmsForjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmsForjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lixinxinlove" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -324,7 +291,7 @@
       <workItem from="1560389455416" duration="44900000" />
       <workItem from="1560570238912" duration="6598000" />
       <workItem from="1560779086979" duration="598000" />
-      <workItem from="1560864961867" duration="599000" />
+      <workItem from="1560864961867" duration="1264000" />
     </task>
     <task id="LOCAL-00001" summary="添加并归排序">
       <created>1560406221701</created>
@@ -361,17 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1560507879542</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加BST node">
+      <created>1560865585419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560865585419</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65136000" />
+    <option name="totallyTimeSpent" value="65801000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="650" y="259" width="1157" height="988" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06866953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27741936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -547,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state relative-caret-position="540">
+          <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
