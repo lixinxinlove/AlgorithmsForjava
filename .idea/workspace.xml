@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad43aa3-9c08-4987-aab3-e99d3aba2a89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lixinxinlove/gui/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/META-INF/AlgorithmsForjava.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapAndSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapAndSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/MaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/heap/MaxHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSortUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/MergeSortUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/sort/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/tree/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsForjava/com/lixinxinlove/tree/BinarySearch.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,15 +34,76 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="480">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#AlgoFrame#0;class#AlgoFrame#0" />
+                <element signature="method#AlgoFrame#1;class#AlgoFrame#0" />
+                <element signature="e#2010#2011#0" expanded="true" />
+                <element signature="e#2081#2082#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoVisHelper.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/Java/jdk11/lib/src.zip!/java.desktop/javax/swing/ImageIcon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="71" column="38" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/Java/jdk11/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17580">
+              <caret line="643" column="32" selection-start-line="643" selection-start-column="32" selection-end-line="643" selection-end-column="32" />
+              <folding>
+                <element signature="e#22926#22927#0" expanded="true" />
+                <element signature="e#22967#22968#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/Java/jdk11/lib/src.zip!/java.desktop/java/awt/Image.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -61,6 +137,9 @@
         <option value="$PROJECT_DIR$/src/com/lixinxinlove/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/lixinxinlove/tree/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/com/lixinxinlove/tree/BST.java" />
+        <option value="$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoVisHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/lixinxinlove/gui/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoFrame.java" />
       </list>
     </option>
   </component>
@@ -74,10 +153,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="423" />
-    <option name="y" value="166" />
-    <option name="width" value="1318" />
-    <option name="height" value="1000" />
+    <option name="x" value="-13" />
+    <option name="width" value="1062" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -107,6 +185,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lixinxinlove" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmsForjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsForjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lixinxinlove" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -120,6 +205,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lixinxinlove/gui" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -131,6 +217,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.lixinxinlove.sort" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\javaEE\AlgorithmsForjava\src\com\lixinxinlove\gui" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lixinxinlove.tree.BinarySearch" />
       <module name="AlgorithmsForjava" />
@@ -198,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lixinxinlove.sort.QuickSort" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixinxinlove.gui.Test" />
       <module name="AlgorithmsForjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lixinxinlove.sort.*" />
+          <option name="PATTERN" value="com.lixinxinlove.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.HeapAndSort" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +322,9 @@
       <updated>1560323006010</updated>
       <workItem from="1560323008259" duration="11442000" />
       <workItem from="1560389455416" duration="44900000" />
-      <workItem from="1560570238912" duration="1802000" />
+      <workItem from="1560570238912" duration="6598000" />
+      <workItem from="1560779086979" duration="598000" />
+      <workItem from="1560864961867" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="添加并归排序">
       <created>1560406221701</created>
@@ -274,12 +365,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59143000" />
+    <option name="totallyTimeSpent" value="65136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06866953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -288,7 +380,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30167598" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24357542" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,6 +412,18 @@
     <MESSAGE value="添加冒泡排序" />
     <MESSAGE value="添加BST node" />
     <option name="LAST_COMMIT_MESSAGE" value="添加BST node" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lixinxinlove/Test.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Random.java" />
@@ -426,11 +530,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="1800">
+          <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk11/lib/src.zip!/java.base/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="150" column="19" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AlgoFrame#0;class#AlgoFrame#0" />
+            <element signature="method#AlgoFrame#1;class#AlgoFrame#0" />
+            <element signature="e#2010#2011#0" expanded="true" />
+            <element signature="e#2081#2082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lixinxinlove/gui/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk11/lib/src.zip!/java.desktop/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk11/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17580">
+          <caret line="643" column="32" selection-start-line="643" selection-start-column="32" selection-end-line="643" selection-end-column="32" />
+          <folding>
+            <element signature="e#22926#22927#0" expanded="true" />
+            <element signature="e#22967#22968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk11/lib/src.zip!/java.desktop/java/awt/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
         </state>
       </provider>
     </entry>
