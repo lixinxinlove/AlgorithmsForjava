@@ -35,7 +35,7 @@ public class Solution {
             r += arr[j] * Math.pow(10, i - j - 1);
         }
 
-        if (r >=(int) Math.pow(2, 31) - 1 && f) {
+        if (r >= (int) Math.pow(2, 31) - 1 && f) {
             return 0;
         }
 
@@ -51,12 +51,10 @@ public class Solution {
     }
 
 
-   // 输入：(2 -> 4 -> 3) +
+    // 输入：(2 -> 4 -> 3) +
     //      (5 -> 6 -> 4)
-   // 输出：7 -> 0 -> 8
-   // 原因：342 + 465 = 807
-
-
+    // 输出：7 -> 0 -> 8
+    // 原因：342 + 465 = 807
 
 
     public static void main(String[] args) {
@@ -71,4 +69,54 @@ public class Solution {
     }
 
 
+    /**
+     * Definition for singly-linked list.
+     * public class ListNode {
+     * int val;
+     * ListNode next;
+     * ListNode(int x) { val = x; }
+     * }
+     */
+
+    public class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int x) {
+            val = x;
+        }
+
+        class Solution1 {
+            public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+
+                int a = 0;
+                int b = 0;
+                a = a * 10 + l1.val;
+                b = b * 10 + l2.val;
+
+                ListNode aNode = l1.next;
+
+                while (aNode != null) {
+                    a = a * 10 + aNode.val;
+                    aNode = aNode.next;
+
+                }
+
+                while (l2.next != null) {
+                    b = b * 10 + l2.next.val;
+                }
+
+
+                int c = a + b;
+
+
+                ListNode lc;
+
+
+                return null;
+            }
+        }
+    }
 }
+
+
